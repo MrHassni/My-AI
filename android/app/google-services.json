@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "96032123411",
+    "project_id": "ai-project-e97e9",
+    "storage_bucket": "ai-project-e97e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96032123411:android:224696ebe5c1f56f996de6",
+        "android_client_info": {
+          "package_name": "com.hassan.myAi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96032123411-87ukg4g7v0a6b9292to6tkqnh2np54ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1cNgWY5SMYsi1P2HFmkPfz9ft8NZ1qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96032123411-87ukg4g7v0a6b9292to6tkqnh2np54ap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96032123411-g6s34gshs5eujepvdv8jn28lqep25m63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hassan.myAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
